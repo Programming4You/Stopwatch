@@ -1,1 +1,1 @@
-Stopwatch - student project
+Stopwatch - School project

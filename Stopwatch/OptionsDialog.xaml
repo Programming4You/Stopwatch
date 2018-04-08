@@ -1,0 +1,38 @@
+﻿<Window x:Class="Stopwatch.OptionsDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:xceed="http://schemas.xceed.com/wpf/xaml/toolkit"
+        Title="Options" Height="300" Width="300"
+        ResizeMode="NoResize" WindowStartupLocation="CenterOwner" Icon="resources/images/options.png">
+    <DockPanel>
+        <StackPanel DockPanel.Dock="Bottom" HorizontalAlignment="Right" Orientation="Horizontal">
+            <Button IsDefault="true" Margin="5,5,5,5" Name="btnOK" Width="{Binding ElementName=btnCancel, Path=ActualWidth}" Click="btnOK_Click">OK</Button>
+            <Button IsCancel="True" Margin="5,5,5,5" Name="btnCancel">Cancel</Button>
+        </StackPanel>
+        <TabControl Margin="10" Padding="10">
+            <TabItem Header="General">
+                <Grid>
+                    <CheckBox Name="chbStartStopInSplitTimes">Add Start and Stop time in Split Times</CheckBox>
+                </Grid>
+            </TabItem>
+            <TabItem Header="View">
+                <Grid MaxWidth="200">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+                    <Label Grid.Row="0" Grid.Column="0">Foreground Color:</Label>
+                    <xceed:ColorPicker Name="clpDisplayForegroundColor" Grid.Row="0" Grid.Column="1" />
+                    <Label Grid.Row="1" Grid.Column="0">Background Color:</Label>
+                    <xceed:ColorPicker Name="clpDisplayBackgroundColor" Grid.Row="1" Grid.Column="1" />
+                </Grid>
+            </TabItem>
+        </TabControl>
+
+    </DockPanel>
+</Window>

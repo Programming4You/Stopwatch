@@ -1,0 +1,175 @@
+C:\Users\m.spasojevic.ICT\Documents\Visual Studio 2013\Projects\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe.config
+C:\Users\m.spasojevic.ICT\Documents\Visual Studio 2013\Projects\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe
+C:\Users\m.spasojevic.ICT\Documents\Visual Studio 2013\Projects\Stopwatch\Stopwatch\bin\Debug\Stopwatch.pdb
+C:\Users\m.spasojevic.ICT\Documents\Visual Studio 2013\Projects\Stopwatch\Stopwatch\obj\Debug\MainWindow.baml
+C:\Users\m.spasojevic.ICT\Documents\Visual Studio 2013\Projects\Stopwatch\Stopwatch\obj\Debug\MainWindow.g.cs
+C:\Users\m.spasojevic.ICT\Documents\Visual Studio 2013\Projects\Stopwatch\Stopwatch\obj\Debug\App.g.cs
+C:\Users\m.spasojevic.ICT\Documents\Visual Studio 2013\Projects\Stopwatch\Stopwatch\obj\Debug\Stopwatch_MarkupCompile.cache
+C:\Users\m.spasojevic.ICT\Documents\Visual Studio 2013\Projects\Stopwatch\Stopwatch\obj\Debug\Stopwatch.g.resources
+C:\Users\m.spasojevic.ICT\Documents\Visual Studio 2013\Projects\Stopwatch\Stopwatch\obj\Debug\Stopwatch.Properties.Resources.resources
+C:\Users\m.spasojevic.ICT\Documents\Visual Studio 2013\Projects\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.GenerateResource.Cache
+C:\Users\m.spasojevic.ICT\Documents\Visual Studio 2013\Projects\Stopwatch\Stopwatch\obj\Debug\Stopwatch.exe
+C:\Users\m.spasojevic.ICT\Documents\Visual Studio 2013\Projects\Stopwatch\Stopwatch\obj\Debug\Stopwatch.pdb
+C:\Users\m.spasojevic.ICT\Documents\Visual Studio 2013\Projects\Stopwatch\Stopwatch\obj\Debug\AboutDialog.baml
+C:\Users\m.spasojevic.ICT\Documents\Visual Studio 2013\Projects\Stopwatch\Stopwatch\obj\Debug\AboutDialog.g.cs
+C:\Users\m.spasojevic.ICT\Documents\Visual Studio 2013\Projects\Stopwatch\Stopwatch\obj\Debug\OptionsDialog.baml
+C:\Users\m.spasojevic.ICT\Documents\Visual Studio 2013\Projects\Stopwatch\Stopwatch\obj\Debug\OptionsDialog.g.cs
+d:\VisokaICT\CS\oopcs2\StopwatchProject_01.01\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe.config
+d:\VisokaICT\CS\oopcs2\StopwatchProject_01.01\Stopwatch\Stopwatch\obj\Debug\Stopwatch.exe
+d:\VisokaICT\CS\oopcs2\StopwatchProject_01.01\Stopwatch\Stopwatch\obj\Debug\Stopwatch.pdb
+d:\VisokaICT\CS\oopcs2\StopwatchProject_01.01\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe
+d:\VisokaICT\CS\oopcs2\StopwatchProject_01.01\Stopwatch\Stopwatch\bin\Debug\Stopwatch.pdb
+d:\VisokaICT\CS\oopcs2\StopwatchProject_01.01\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csprojResolveAssemblyReference.cache
+d:\VisokaICT\CS\oopcs2\StopwatchProject_01.01\Stopwatch\Stopwatch\obj\Debug\AboutDialog.baml
+d:\VisokaICT\CS\oopcs2\StopwatchProject_01.01\Stopwatch\Stopwatch\obj\Debug\MainWindow.baml
+d:\VisokaICT\CS\oopcs2\StopwatchProject_01.01\Stopwatch\Stopwatch\obj\Debug\OptionsDialog.baml
+d:\VisokaICT\CS\oopcs2\StopwatchProject_01.01\Stopwatch\Stopwatch\obj\Debug\AboutDialog.g.cs
+d:\VisokaICT\CS\oopcs2\StopwatchProject_01.01\Stopwatch\Stopwatch\obj\Debug\MainWindow.g.cs
+d:\VisokaICT\CS\oopcs2\StopwatchProject_01.01\Stopwatch\Stopwatch\obj\Debug\OptionsDialog.g.cs
+d:\VisokaICT\CS\oopcs2\StopwatchProject_01.01\Stopwatch\Stopwatch\obj\Debug\App.g.cs
+d:\VisokaICT\CS\oopcs2\StopwatchProject_01.01\Stopwatch\Stopwatch\obj\Debug\Stopwatch_MarkupCompile.cache
+d:\VisokaICT\CS\oopcs2\StopwatchProject_01.01\Stopwatch\Stopwatch\obj\Debug\Stopwatch.g.resources
+d:\VisokaICT\CS\oopcs2\StopwatchProject_01.01\Stopwatch\Stopwatch\obj\Debug\Stopwatch.Properties.Resources.resources
+d:\VisokaICT\CS\oopcs2\StopwatchProject_01.01\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.GenerateResource.Cache
+d:\VisokaICT\CS\oopcs2\StopwatchProject_01.01\Stopwatch\Stopwatch\bin\Debug\Xceed.Wpf.AvalonDock.dll
+d:\VisokaICT\CS\oopcs2\StopwatchProject_01.01\Stopwatch\Stopwatch\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+d:\VisokaICT\CS\oopcs2\StopwatchProject_01.01\Stopwatch\Stopwatch\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+d:\VisokaICT\CS\oopcs2\StopwatchProject_01.01\Stopwatch\Stopwatch\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+d:\VisokaICT\CS\oopcs2\StopwatchProject_01.01\Stopwatch\Stopwatch\bin\Debug\Xceed.Wpf.DataGrid.dll
+d:\VisokaICT\CS\oopcs2\StopwatchProject_01.01\Stopwatch\Stopwatch\bin\Debug\Xceed.Wpf.Toolkit.dll
+d:\VisokaICT\CS\oopcs2\StopwatchProject_01.01\Stopwatch\Stopwatch\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+d:\VisokaICT\CS\oopcs2\StopwatchProject_01.01\Stopwatch\Stopwatch\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+d:\VisokaICT\CS\oopcs2\StopwatchProject_01.01\Stopwatch\Stopwatch\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+d:\VisokaICT\CS\oopcs2\StopwatchProject_01.01\Stopwatch\Stopwatch\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+d:\VisokaICT\CS\oopcs2\StopwatchProject_01.01\Stopwatch\Stopwatch\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+d:\VisokaICT\CS\oopcs2\StopwatchProject_01.01\Stopwatch\Stopwatch\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+d:\VisokaICT\CS\oopcs2\StopwatchProject_01.01\Stopwatch\Stopwatch\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+d:\VisokaICT\CS\oopcs2\StopwatchProject_01.01\Stopwatch\Stopwatch\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+d:\VisokaICT\CS\oopcs2\StopwatchProject_01.01\Stopwatch\Stopwatch\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+d:\VisokaICT\CS\oopcs2\StopwatchProject_01.01\Stopwatch\Stopwatch\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\m.spasojevic.ICT\Desktop\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe.config
+C:\Users\m.spasojevic.ICT\Desktop\Stopwatch\Stopwatch\obj\Debug\Stopwatch.exe
+C:\Users\m.spasojevic.ICT\Desktop\Stopwatch\Stopwatch\obj\Debug\Stopwatch.pdb
+C:\Users\m.spasojevic.ICT\Desktop\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe
+C:\Users\m.spasojevic.ICT\Desktop\Stopwatch\Stopwatch\bin\Debug\Stopwatch.pdb
+C:\Users\m.spasojevic.ICT\Desktop\Stopwatch\Stopwatch\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\m.spasojevic.ICT\Desktop\Stopwatch\Stopwatch\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\m.spasojevic.ICT\Desktop\Stopwatch\Stopwatch\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\m.spasojevic.ICT\Desktop\Stopwatch\Stopwatch\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\m.spasojevic.ICT\Desktop\Stopwatch\Stopwatch\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\m.spasojevic.ICT\Desktop\Stopwatch\Stopwatch\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\m.spasojevic.ICT\Desktop\Stopwatch\Stopwatch\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\m.spasojevic.ICT\Desktop\Stopwatch\Stopwatch\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\m.spasojevic.ICT\Desktop\Stopwatch\Stopwatch\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\m.spasojevic.ICT\Desktop\Stopwatch\Stopwatch\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\m.spasojevic.ICT\Desktop\Stopwatch\Stopwatch\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\m.spasojevic.ICT\Desktop\Stopwatch\Stopwatch\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\m.spasojevic.ICT\Desktop\Stopwatch\Stopwatch\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\m.spasojevic.ICT\Desktop\Stopwatch\Stopwatch\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\m.spasojevic.ICT\Desktop\Stopwatch\Stopwatch\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\m.spasojevic.ICT\Desktop\Stopwatch\Stopwatch\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\m.spasojevic.ICT\Desktop\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csprojResolveAssemblyReference.cache
+C:\Users\m.spasojevic.ICT\Desktop\Stopwatch\Stopwatch\obj\Debug\AboutDialog.baml
+C:\Users\m.spasojevic.ICT\Desktop\Stopwatch\Stopwatch\obj\Debug\MainWindow.baml
+C:\Users\m.spasojevic.ICT\Desktop\Stopwatch\Stopwatch\obj\Debug\OptionsDialog.baml
+C:\Users\m.spasojevic.ICT\Desktop\Stopwatch\Stopwatch\obj\Debug\AboutDialog.g.cs
+C:\Users\m.spasojevic.ICT\Desktop\Stopwatch\Stopwatch\obj\Debug\MainWindow.g.cs
+C:\Users\m.spasojevic.ICT\Desktop\Stopwatch\Stopwatch\obj\Debug\OptionsDialog.g.cs
+C:\Users\m.spasojevic.ICT\Desktop\Stopwatch\Stopwatch\obj\Debug\App.g.cs
+C:\Users\m.spasojevic.ICT\Desktop\Stopwatch\Stopwatch\obj\Debug\Stopwatch_MarkupCompile.cache
+C:\Users\m.spasojevic.ICT\Desktop\Stopwatch\Stopwatch\obj\Debug\Stopwatch.g.resources
+C:\Users\m.spasojevic.ICT\Desktop\Stopwatch\Stopwatch\obj\Debug\Stopwatch.Properties.Resources.resources
+C:\Users\m.spasojevic.ICT\Desktop\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.GenerateResource.Cache
+C:\Users\m.spasojevic.ICT\Documents\Visual Studio 2013\Projects\Stopwatch\Stopwatch\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\m.spasojevic.ICT\Documents\Visual Studio 2013\Projects\Stopwatch\Stopwatch\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\m.spasojevic.ICT\Documents\Visual Studio 2013\Projects\Stopwatch\Stopwatch\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\m.spasojevic.ICT\Documents\Visual Studio 2013\Projects\Stopwatch\Stopwatch\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\m.spasojevic.ICT\Documents\Visual Studio 2013\Projects\Stopwatch\Stopwatch\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\m.spasojevic.ICT\Documents\Visual Studio 2013\Projects\Stopwatch\Stopwatch\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\m.spasojevic.ICT\Documents\Visual Studio 2013\Projects\Stopwatch\Stopwatch\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\m.spasojevic.ICT\Documents\Visual Studio 2013\Projects\Stopwatch\Stopwatch\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\m.spasojevic.ICT\Documents\Visual Studio 2013\Projects\Stopwatch\Stopwatch\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\m.spasojevic.ICT\Documents\Visual Studio 2013\Projects\Stopwatch\Stopwatch\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\m.spasojevic.ICT\Documents\Visual Studio 2013\Projects\Stopwatch\Stopwatch\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\m.spasojevic.ICT\Documents\Visual Studio 2013\Projects\Stopwatch\Stopwatch\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\m.spasojevic.ICT\Documents\Visual Studio 2013\Projects\Stopwatch\Stopwatch\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\m.spasojevic.ICT\Documents\Visual Studio 2013\Projects\Stopwatch\Stopwatch\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\m.spasojevic.ICT\Documents\Visual Studio 2013\Projects\Stopwatch\Stopwatch\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\m.spasojevic.ICT\Documents\Visual Studio 2013\Projects\Stopwatch\Stopwatch\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\m.spasojevic.ICT\Documents\Visual Studio 2013\Projects\Stopwatch\Stopwatch\obj\Debug\Stopwatch_MarkupCompile.lref
+C:\Users\m.spasojevic.ICT\Documents\Visual Studio 2013\Projects\Stopwatch\Stopwatch\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\m.spasojevic.ICT\Documents\Visual Studio 2013\Projects\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csprojResolveAssemblyReference.cache
+C:\Users\Milan\source\repos\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe.config
+C:\Users\Milan\source\repos\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe
+C:\Users\Milan\source\repos\Stopwatch\Stopwatch\bin\Debug\Stopwatch.pdb
+C:\Users\Milan\source\repos\Stopwatch\Stopwatch\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Milan\source\repos\Stopwatch\Stopwatch\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Milan\source\repos\Stopwatch\Stopwatch\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Milan\source\repos\Stopwatch\Stopwatch\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Milan\source\repos\Stopwatch\Stopwatch\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Milan\source\repos\Stopwatch\Stopwatch\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Milan\source\repos\Stopwatch\Stopwatch\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Milan\source\repos\Stopwatch\Stopwatch\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Milan\source\repos\Stopwatch\Stopwatch\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Milan\source\repos\Stopwatch\Stopwatch\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Milan\source\repos\Stopwatch\Stopwatch\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Milan\source\repos\Stopwatch\Stopwatch\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Milan\source\repos\Stopwatch\Stopwatch\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Milan\source\repos\Stopwatch\Stopwatch\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Milan\source\repos\Stopwatch\Stopwatch\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Milan\source\repos\Stopwatch\Stopwatch\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Milan\source\repos\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csprojResolveAssemblyReference.cache
+C:\Users\Milan\source\repos\Stopwatch\Stopwatch\obj\Debug\AboutDialog.baml
+C:\Users\Milan\source\repos\Stopwatch\Stopwatch\obj\Debug\OptionsDialog.baml
+C:\Users\Milan\source\repos\Stopwatch\Stopwatch\obj\Debug\AboutDialog.g.cs
+C:\Users\Milan\source\repos\Stopwatch\Stopwatch\obj\Debug\MainWindow.g.cs
+C:\Users\Milan\source\repos\Stopwatch\Stopwatch\obj\Debug\OptionsDialog.g.cs
+C:\Users\Milan\source\repos\Stopwatch\Stopwatch\obj\Debug\App.g.cs
+C:\Users\Milan\source\repos\Stopwatch\Stopwatch\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Milan\source\repos\Stopwatch\Stopwatch\obj\Debug\Stopwatch_MarkupCompile.cache
+C:\Users\Milan\source\repos\Stopwatch\Stopwatch\obj\Debug\Stopwatch_MarkupCompile.lref
+C:\Users\Milan\source\repos\Stopwatch\Stopwatch\obj\Debug\MainWindow.baml
+C:\Users\Milan\source\repos\Stopwatch\Stopwatch\obj\Debug\Stopwatch.g.resources
+C:\Users\Milan\source\repos\Stopwatch\Stopwatch\obj\Debug\Stopwatch.Properties.Resources.resources
+C:\Users\Milan\source\repos\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.GenerateResource.cache
+C:\Users\Milan\source\repos\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\Milan\source\repos\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.CopyComplete
+C:\Users\Milan\source\repos\Stopwatch\Stopwatch\obj\Debug\Stopwatch.exe
+C:\Users\Milan\source\repos\Stopwatch\Stopwatch\obj\Debug\Stopwatch.pdb
+C:\Users\Milan\Documents\GitProjects\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe.config
+C:\Users\Milan\Documents\GitProjects\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe
+C:\Users\Milan\Documents\GitProjects\Stopwatch\Stopwatch\bin\Debug\Stopwatch.pdb
+C:\Users\Milan\Documents\GitProjects\Stopwatch\Stopwatch\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Milan\Documents\GitProjects\Stopwatch\Stopwatch\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Milan\Documents\GitProjects\Stopwatch\Stopwatch\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Milan\Documents\GitProjects\Stopwatch\Stopwatch\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Milan\Documents\GitProjects\Stopwatch\Stopwatch\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Milan\Documents\GitProjects\Stopwatch\Stopwatch\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Milan\Documents\GitProjects\Stopwatch\Stopwatch\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Milan\Documents\GitProjects\Stopwatch\Stopwatch\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Milan\Documents\GitProjects\Stopwatch\Stopwatch\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Milan\Documents\GitProjects\Stopwatch\Stopwatch\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Milan\Documents\GitProjects\Stopwatch\Stopwatch\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Milan\Documents\GitProjects\Stopwatch\Stopwatch\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Milan\Documents\GitProjects\Stopwatch\Stopwatch\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Milan\Documents\GitProjects\Stopwatch\Stopwatch\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Milan\Documents\GitProjects\Stopwatch\Stopwatch\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Milan\Documents\GitProjects\Stopwatch\Stopwatch\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Milan\Documents\GitProjects\Stopwatch\Stopwatch\obj\Debug\AboutDialog.baml
+C:\Users\Milan\Documents\GitProjects\Stopwatch\Stopwatch\obj\Debug\OptionsDialog.baml
+C:\Users\Milan\Documents\GitProjects\Stopwatch\Stopwatch\obj\Debug\AboutDialog.g.cs
+C:\Users\Milan\Documents\GitProjects\Stopwatch\Stopwatch\obj\Debug\MainWindow.g.cs
+C:\Users\Milan\Documents\GitProjects\Stopwatch\Stopwatch\obj\Debug\OptionsDialog.g.cs
+C:\Users\Milan\Documents\GitProjects\Stopwatch\Stopwatch\obj\Debug\App.g.cs
+C:\Users\Milan\Documents\GitProjects\Stopwatch\Stopwatch\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Milan\Documents\GitProjects\Stopwatch\Stopwatch\obj\Debug\Stopwatch_MarkupCompile.cache
+C:\Users\Milan\Documents\GitProjects\Stopwatch\Stopwatch\obj\Debug\Stopwatch_MarkupCompile.lref
+C:\Users\Milan\Documents\GitProjects\Stopwatch\Stopwatch\obj\Debug\MainWindow.baml
+C:\Users\Milan\Documents\GitProjects\Stopwatch\Stopwatch\obj\Debug\Stopwatch.g.resources
+C:\Users\Milan\Documents\GitProjects\Stopwatch\Stopwatch\obj\Debug\Stopwatch.Properties.Resources.resources
+C:\Users\Milan\Documents\GitProjects\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.GenerateResource.cache
+C:\Users\Milan\Documents\GitProjects\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\Milan\Documents\GitProjects\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.CopyComplete
+C:\Users\Milan\Documents\GitProjects\Stopwatch\Stopwatch\obj\Debug\Stopwatch.exe
+C:\Users\Milan\Documents\GitProjects\Stopwatch\Stopwatch\obj\Debug\Stopwatch.pdb
+C:\Users\Milan\Documents\GitProjects\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csprojResolveAssemblyReference.cache

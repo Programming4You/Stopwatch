@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Stopwatch.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="MainWindowTop" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="MainWindowLeft" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="MainWindowHeight" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">450</Value>
+    </Setting>
+    <Setting Name="MainWindowWidth" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">650</Value>
+    </Setting>
+    <Setting Name="DisplayForegroundColor" Type="System.Windows.Media.SolidColorBrush" Scope="User">
+      <Value Profile="(Default)">#FF000000</Value>
+    </Setting>
+    <Setting Name="DisplayBackgroundColor" Type="System.Windows.Media.SolidColorBrush" Scope="User">
+      <Value Profile="(Default)">#FF9ACD32</Value>
+    </Setting>
+    <Setting Name="StartStopInSplitTimes" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
